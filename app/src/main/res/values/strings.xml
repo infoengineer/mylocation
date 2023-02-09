@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InfoEngineer Где я</string>
+    <string name="im_here_text">Сейчас я тут</string>
+    <string name="send_to_website">Отправить на сайт</string>
+    <string name="dialog_title">Внимание</string>
+    <string name="dialog_message">Отправить текущее местоположение на сайт InfoEngineer?</string>
+    <string name="turn_on_location">Включите определение местоположения</string>
+    <string name="turn_on_internet">Проверьте подключение к интернету</string>
+    <string name="successful">Местоположение успешно отправлено</string>
+</resources>
